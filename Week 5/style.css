@@ -1,0 +1,63 @@
+body{
+  font-family:"Roboto";
+  font-size: 2vw;
+  font-wieght:100;
+  color:rgb(100,100,100);
+
+}
+
+p{
+  color:rbg(100,100,100);
+  font-size:20px;
+
+}
+
+
+
+
+h1{
+  border: solid grey 1px;
+  background-color: rgb(200, 200,0);
+  font-family:"Gluten";
+}
+
+.grey{
+  color :rgb(100,100,100)
+}
+
+.background{
+  background-color: rgb(225,225,225);
+
+}
+
+p.background {
+  color:red;
+}
+
+span{
+  color: blue;
+  font-weight: bold;
+}
+hr{
+  border=dashed rgb(225, 225, 0) 2px;
+}
+
+#two{
+  border: solid black 1px;
+  background-color: blue;
+  /*padding: top right bottom left;*/
+  padding: 30px 0px 30px 0px;
+  margin: 0px 30px 0px 30px;
+
+
+}
+
+#hero{
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+  height:50vh;
+  overflow:hidden;
+  position: relative;
+  
+}
