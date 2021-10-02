@@ -1,0 +1,50 @@
+body{
+  background-color: #2F6C68;
+}
+h1{
+  display: inline-block;
+  font-family: Kavoon;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 60px;
+  color: #000000;
+  background-color: #742E12;
+}
+
+h2 {
+  display: inline-block;
+  font-family: Kavoon;
+  font-size: 50px;
+  background-color: #742E12;
+}
+p, li {
+  font-family: Kurale;
+  font-size: 30px;
+}
+h3{
+  display: inline-block;
+  font-family: Kavoon;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 40px;
+  color: #000000;
+  background-color: #742E12;
+
+}
+a{
+  color: #0450E4;
+  font-size: 30px;
+
+}
+a:hover{
+  color: #003BAC;
+}
+a:visited{
+  color: #999595;
+}
+button{
+  background-color: #6B724E;
+  font-size: 30px;
+}
