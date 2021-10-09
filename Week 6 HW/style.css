@@ -1,0 +1,16 @@
+h1{
+  font-size: 40px;
+  color: white;
+  font-family: "Abril+Fatface";
+}
+h2{
+  font-size: 30px;
+  color: #FBEEC1;
+  font-family: "Abril+FatFace";
+}
+body{
+  background-color: #659DBD;
+}
+p{
+  font-family: "Cormorant+Garamond";
+}
