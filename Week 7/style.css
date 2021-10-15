@@ -1,13 +1,13 @@
 section{
-  background-color:#42a163;
+  background-color:#3f6fe0;
   margin: 30vh 20vw;
-  padding: 8vh 10vw 10vh 10vw;
-  border-radius: 8px;
+  padding: 5vh 7vw 7vh 7vw;
+  border-radius: 5px;
 }
 
 button{
   border-radius: 8px;
-  padding: 1vh 3vw;
+  padding: 1vh 1vw;
   float: right;
   margin-top: 1vh;
   background-color: black;
@@ -22,6 +22,11 @@ button{
    color: #
  }
 h1{
-  color: #b9bdba;
+  color: white;
   font-family: "EB Garamond";
+}
+body{
+  background-image: url("reopen-2017.jpg");
+  background-color: #cccccc;
+  background-size: 1700px;
 }

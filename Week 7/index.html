@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en">
 <head>
 
 <title>Ouote Machine</title>
 <link rel ="stylesheet" href="style.css">
 <link href='https://fonts.googleapis.com/css?family=Eb Garamond' rel='stylesheet'>
-  </head>
-  <body>
-  <section>
-  <h1 id= "q text">Welcome to the quote machine, click the button to get the quote.</h1>
-  <button>New Quote</button>
-  </section>
-  <script>
-    const quotes = ["The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela", "The way to get started is to quit talking and begin doing. -Walt Disney", "If life were predictable it would cease to be life, and be without flavor. -Eleanor Roosevelt","If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron", "Life is what happens when you're busy making other plans. -John Lennon" ];
+</head>
+<body>
+<section>
+  <h1 id= "qtext">Click the button to get a Bob's Burger quote.</h1>
+<button id= "newquote">New Quote</button>
+</section>
+<script>
+    const quotes = ["The real tragedy is that I don't have time to get nachos before we start. -Linda Belcher", "I'm a smart, strong sensual woman. -Tina Belcher", "Hey, Jennifer Slowpez! Get out of the way!-Linda Belcher", "I made it rain shrimp! What did you ever do? -Louise Belcher", "Who's better at math than a robot? They're made of math! -Gene Belcher", "You're my family and I love you, but you're terrible. You're all terrible. - Bob Burger"];
     let quotecount =0;
 
 
@@ -20,14 +20,16 @@
 
     function buttonClicked(){
       console.log(quotes[quotecount]);
-      document.getElementById("q text").innerhtml = quotes[quotecount];
-      if(quotecount>6){
-          quotecount++;
+      document.getElementById("qtext").innerHTML = quotes[quotecount];
+      if(quotecount>=5){
+        quotecount=0;
       }else{
+      quotecount++;
+
 
     }
 
     }
-  </script>
-  </body>
-  </html>
+</script>
+</body>
+</html>
