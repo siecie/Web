@@ -1,0 +1,14 @@
+div{
+  background-color: pink;
+
+}
+
+#characters{
+  display:flex;
+}
+
+.options{
+  flex-grow:1;
+  width:auto;
+  margin: 3vw;
+}

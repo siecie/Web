@@ -1,0 +1,32 @@
+#tabs{
+  display:flex;
+  margin: 25ch 10vw 0 10vw;
+
+}
+.meal{
+  flex-grow: 1;
+  background-color:blue;
+  height: 100px;
+  width: auto;
+  border: 1px solid black;
+}
+
+#items{
+  display:flex;
+  margin-top: 0px 10vw 0 10vw;
+}
+
+#image, #menu{
+  flex-grow:1;
+  width:auto;
+  height: 100px;
+  background-color: pink;
+  border: 1px solid black;
+
+}
+h2{
+  margin-top: 20px;
+  padding-bottom: 0;
+  font-size: 1.8em;
+
+}
