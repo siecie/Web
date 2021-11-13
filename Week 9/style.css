@@ -16,7 +16,7 @@
   margin-top: 0px 10vw 0 10vw;
 }
 
-#image, #menu{
+#image, .menu{
   flex-grow:1;
   width:auto;
   height: 100px;
