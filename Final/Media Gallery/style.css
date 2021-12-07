@@ -1,0 +1,23 @@
+h1{
+  color: black;
+  font-family: "Playfair Display";
+  font-size: 80px;
+  text-align: center;
+}
+
+#bear{
+  height: 650px;
+  width:400px;
+  margin: 0ch 0vw 0 0vw;
+}
+#snow{
+  height: 300px;
+  width: 500px;
+  margin: 10ch 0vw 0 0vw;
+}
+
+#flag{
+  height:500px;
+  width: 700px;
+  margin: -80ch 100vw 0 63vw;
+}

@@ -1,0 +1,21 @@
+h1{
+  font-family: "Playfair Display";
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+  margin-bottom: 4em;
+}
+p,a{
+  font-family: "Raleway";
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+#map{
+  height: 600px;
+  width: 1700px;
+}
