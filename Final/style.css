@@ -92,6 +92,21 @@ h3{
   font-size: 80px;
   text-align: center;
   text-align: center;
-  font-weight: "Playfair Display";
+  font-family: "Playfair Display";
   margin: -.5ch 0vw 0 0vw;
+}
+
+#btn1, #btn2, #btn3{
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  color: #d1d1d1;
+  text-decoration: none;
+  height: auto;
+  width: auto;
+
+}
+
+#btn1:clicked{
+  color:Black;
 }

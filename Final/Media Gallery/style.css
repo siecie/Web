@@ -1,23 +1,30 @@
 h1{
   color: black;
   font-family: "Playfair Display";
-  font-size: 80px;
+  font-size: 60px;
   text-align: center;
 }
 
-#bear{
+#vertical{
   height: 650px;
-  width:400px;
-  margin: 0ch 0vw 0 0vw;
+  width: 400px;
 }
-#snow{
-  height: 300px;
-  width: 500px;
-  margin: 10ch 0vw 0 0vw;
+#horizontal{
+  height: 400px;
+  width: 650px;
 }
 
-#flag{
-  height:500px;
-  width: 700px;
-  margin: -80ch 100vw 0 63vw;
+.gallery{
+  margin:10px 50px;
+}
+
+.gallery img{
+  transition:1s;
+  padding:15px;
+  width:200px;
+}
+
+.gallery img:hover{
+  filter: brightness(70%);
+  transform:scale(1.1);
 }
