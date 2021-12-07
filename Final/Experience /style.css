@@ -1,9 +1,46 @@
-h1{
+#title{
   text-align: center;
   font-family: "Playfair Display";
   font-size: 80px;
   margin-bottom: 0em;
 }
+#header{
+  font-family: "Playfair Display";
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.options{
+  background-color:black;
+  height: 175px;
+  width: 1700px;
+  border: 3px solid white;
+  position: relative;
+  padding-right: 100px;
+  margin-bottom: 1em;
+
+
+}
+hr{
+  float: none;
+  position: relative;
+  top: 100px;
+  padding-left: 10px;
+
+}
+#options,a{
+  color:white;
+  font-size: 18px;
+  text-align: center;
+  word-spacing: 30px;
+  font-family: "Raleway";
+  text-decoration: none;
+
+}
+a:hover{
+  font-size: 22px;
+}
+
 body{
   background-color: #DDC9C8;
 }
@@ -24,6 +61,7 @@ body{
   font-size: 40px;
   margin-left: .5em;
   margin-bottom: 0em;
+  color: black;
 }
 
 #company2{

@@ -44,7 +44,7 @@ a:hover{
 }
 #blossum{
   display: block;
-  margin-left:127px;
+  margin-left:125px;
   height: 680px;
   width:1500px;
   padding-bottom: 2em;
@@ -109,4 +109,8 @@ h3{
 
 #btn1:clicked{
   color:Black;
+}
+
+img{
+  display: block;
 }

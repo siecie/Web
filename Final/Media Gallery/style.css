@@ -5,6 +5,44 @@ h1{
   text-align: center;
 }
 
+#header{
+  font-family: "Playfair Display";
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.options{
+  background-color:black;
+  height: 175px;
+  width: 1700px;
+  border: 3px solid white;
+  position: relative;
+  padding-right: 100px;
+  margin-bottom: 1em;
+
+
+}
+hr{
+  float: none;
+  position: relative;
+  top: 100px;
+  padding-left: 10px;
+  margin-bottom: 0em;
+
+}
+#options,a{
+  color:white;
+  font-size: 18px;
+  text-align: center;
+  word-spacing: 30px;
+  font-family: "Raleway";
+  text-decoration: none;
+
+}
+a:hover{
+  font-size: 22px;
+
+  }
 #vertical{
   height: 650px;
   width: 400px;
