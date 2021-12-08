@@ -12,12 +12,12 @@ h1{
   color: white;
   font-size: 40px;
   margin-bottom: 0em;
-  margin-left: 0em;
+  margin-left: 1em;
 }
 .options{
   background-color:black;
   height: 175px;
-  width: 1700px;
+  width: 1570px;
   border: 3px solid white;
   position: relative;
   padding-right: 100px;
@@ -32,20 +32,27 @@ hr{
   top: 100px;
   padding-left: 10px;
   margin-bottom: 0em;
+  width:1655px;
 
 }
-#options,a{
+h2,a{
   color:white;
   font-size: 18px;
   text-align: center;
   word-spacing: 30px;
   font-family: "Raleway";
+  margin: -2ch -.5vw 0 0vw;
+  left:50%;
   text-decoration: none;
-  margin: -2ch 0vw 0 0vw;
-
-
 
 }
+
+
+
+
+
+
+
 a:hover{
   font-size: 22px;
 

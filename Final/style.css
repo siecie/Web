@@ -3,6 +3,7 @@ h1{
   text-align: center;
   color: white;
   font-size: 40px;
+  margin-left: 100px;
 }
 .text{
   font-family: "Raleway";
@@ -16,7 +17,7 @@ h1{
 .options{
   background-color:black;
   height: 175px;
-  width: 1700px;
+  width: 1570px;
   border: 3px solid white;
   position: relative;
   padding-right: 100px;
@@ -38,6 +39,7 @@ h2,a{
   word-spacing: 30px;
   font-family: "Raleway";
   text-decoration: none;
+  left: 50%;
 
 }
 a:hover{
@@ -46,13 +48,13 @@ a:hover{
 #blossum{
   display: block;
   margin-left:125px;
-  height: 680px;
-  width:1500px;
+  height: 800px;
+  width:1570px;
   padding-bottom: 2em;
   text-align: center;
   padding-top: 0em;
-  margin-top: 2em;
-  margin-left: 7em;
+  margin-top: 3em;
+  margin-left: 3.5em;
 
 }
 
@@ -63,7 +65,7 @@ body{
 .banner{
   background-color:black;
   height: 150px;
-  width: 1700px;
+  width: 1580px;
   border: 3px solid white;
   position: relative;
   padding-right: 100px;
@@ -99,7 +101,7 @@ h3{
   text-align: center;
   text-align: center;
   font-family: "Playfair Display";
-  margin: -.1ch 0vw 0 1vw;
+  margin: -.1ch 0vw 0 7.3vw;
 }
 
 #btn1, #btn2, #btn3{
