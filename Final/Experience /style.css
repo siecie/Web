@@ -8,14 +8,14 @@ body, html {
   font-family: "Playfair Display";
   font-size: 80px;
   margin-bottom: 0em;
-  margin: -.5ch 0vw 0 0vw;
+  margin: -.5ch 0vw 0 1vw;
 }
 #header{
   font-family: "Playfair Display";
   text-align: center;
   color: white;
   font-size: 40px;
-  left:50%;
+  left:100px;
 
 }
 .options{
