@@ -3,7 +3,7 @@ h1{
   font-family: "Playfair Display";
   font-size: 60px;
   text-align: center;
-  margin-left: .8em;
+  margin-left: 1.2em;
 }
 
 #header{
@@ -12,7 +12,7 @@ h1{
   color: white;
   font-size: 40px;
   margin-bottom: 0em;
-  margin-left: 1em;
+  margin-left: 1.3em;
 }
 .options{
   background-color:black;
@@ -44,7 +44,13 @@ h2,a{
   margin: -2ch -.5vw 0 0vw;
   left:50%;
   text-decoration: none;
+  left:150px;
 
+}
+
+h2{
+  position: relative;
+  left:1%;
 }
 
 

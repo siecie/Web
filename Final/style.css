@@ -42,6 +42,11 @@ h2,a{
   left: 50%;
 
 }
+
+h2{
+  position: relative;
+  left:3.3%;
+}
 a:hover{
   font-size: 22px;
 }
@@ -106,7 +111,7 @@ h3{
 
 #btn1, #btn2, #btn3{
   background-color: black;
-  opacity: 0.3;
+  opacity: .3;
   text-decoration: none;
   height: 20px;
   width: 20px;
