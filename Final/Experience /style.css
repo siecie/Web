@@ -3,12 +3,14 @@
   font-family: "Playfair Display";
   font-size: 80px;
   margin-bottom: 0em;
+  margin: -.5ch 0vw 0 3vw;
 }
 #header{
   font-family: "Playfair Display";
   text-align: center;
   color: white;
   font-size: 40px;
+
 }
 .options{
   background-color:black;
@@ -26,6 +28,7 @@ hr{
   position: relative;
   top: 100px;
   padding-left: 10px;
+  margin-bottom: 0px;
 
 }
 #options,a{
@@ -35,6 +38,7 @@ hr{
   word-spacing: 30px;
   font-family: "Raleway";
   text-decoration: none;
+  margin: -2ch 0vw 0 0vw;
 
 }
 a:hover{
@@ -107,9 +111,4 @@ li{
   height: 400px;
   width: 650px;
   margin-left: 12em;
-}
-
-a img:hover{
-  height: 65px;
-  width:85px;
 }

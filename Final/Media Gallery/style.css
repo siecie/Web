@@ -3,6 +3,7 @@ h1{
   font-family: "Playfair Display";
   font-size: 60px;
   text-align: center;
+  margin-left: .8em;
 }
 
 #header{
@@ -10,6 +11,8 @@ h1{
   text-align: center;
   color: white;
   font-size: 40px;
+  margin-bottom: 0em;
+  margin-left: 0em;
 }
 .options{
   background-color:black;
@@ -19,6 +22,7 @@ h1{
   position: relative;
   padding-right: 100px;
   margin-bottom: 1em;
+  margin-top: 0em;
 
 
 }
@@ -37,6 +41,9 @@ hr{
   word-spacing: 30px;
   font-family: "Raleway";
   text-decoration: none;
+  margin: -2ch 0vw 0 0vw;
+
+
 
 }
 a:hover{
@@ -50,6 +57,10 @@ a:hover{
 #horizontal{
   height: 400px;
   width: 650px;
+}
+#square{
+  height:500px;
+  width:500px;
 }
 
 .gallery{

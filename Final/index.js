@@ -14,3 +14,9 @@ btn2.addEventListener('click', () => {
 btn3.addEventListener('click', () => {
   img.src= 'Media Gallery/Flatirons.jpg';
 })
+
+var buttons = $('button');
+buttons.click(function() {
+  buttons.css('background-color', 'black');
+  $(this).css('background-color', 'white');
+});

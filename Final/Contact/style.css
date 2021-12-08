@@ -3,19 +3,79 @@ h1{
   font-size: 80px;
   color: white;
   text-align: center;
+  margin-left: .5em;
+  margin-bottom: 0em;
 }
+#header{
+  font-family: "Playfair Display";
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  margin-right: .5em;
+}
+.options{
+  background-color:black;
+  height: 175px;
+  width: 1700px;
+  border: 3px solid white;
+  position: relative;
+  padding-right: 100px;
+  margin-bottom: 1em;
+
+
+
+}
+hr{
+  float: none;
+  position: relative;
+  top: 100px;
+  padding-left: 10px;
+  margin-bottom: 0em;
+
+}
+h2,a{
+  color:white;
+  font-size: 18px;
+  text-align: center;
+  word-spacing: 30px;
+  font-family: "Raleway";
+  text-decoration: none;
+}
+#options,a{
+  color:white;
+  font-size: 18px;
+  text-align: center;
+  word-spacing: 30px;
+  font-family: "Raleway";
+  text-decoration: none;
+  margin-bottom:0px;
+  margin: -3.5ch 0vw 0 0vw;
+
+}
+a:hover{
+  font-size: 22px;
+
+  }
 body{
-  background-color: black;
+  background-color:#404040;
   margin-bottom: 4em;
 }
-p,a{
+p,#click{
   font-family: "Raleway";
   font-size: 30px;
   color: white;
   text-align: center;
+  position: relative;
+
+
 }
 
+p{
+  margin-left: 2em;
+
+}
 #map{
   height: 600px;
   width: 1700px;
+  margin-left: 2em;
 }
