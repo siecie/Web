@@ -30,7 +30,7 @@ h1{
 hr{
   float: none;
   position: relative;
-  top: 100px;
+  top: 110px;
   margin-bottom: 0em;
   width: 1680px;
 
@@ -41,7 +41,7 @@ h2,a{
   text-align: center;
   word-spacing: 30px;
   font-family: "Raleway";
-  margin: 0ch -.5vw 0 0vw;
+  margin: 3.5ch -.5vw 0 0vw;
   text-decoration: none;
 
 }
