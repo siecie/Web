@@ -46,9 +46,11 @@ h2,a{
   font-family: "Raleway";
   margin: -3.3ch -.5vw 0 0vw;
   text-decoration: none;
-  left:10px;
+
 }
-h
+h2{
+  left:110px;
+}
 a{
 text-decoration: none;
 }

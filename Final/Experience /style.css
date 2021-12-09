@@ -17,6 +17,7 @@ body, html {
   font-size: 40px;
   left:100px;
 
+
 }
 .options{
   background-color:black;
@@ -41,12 +42,14 @@ hr{
   color:white;
   font-size: 18px;
   text-align: center;
-  word-spacing: 20px;
+  word-spacing: 30px;
   font-family: "Raleway";
+  margin: -2.2ch -.5vw 0 0vw;
   text-decoration: none;
-  margin: -2ch 0vw 0 0vw;
+
 
 }
+
 a:hover{
   font-size: 22px;
 }
