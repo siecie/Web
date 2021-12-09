@@ -111,6 +111,15 @@ h3{
   margin: -.1ch 0vw 0 3vw;
 }
 
+
+button:hover {
+  background-color: white !important;
+
+}
+button:focus{
+  background-color: white;
+}
+
 #btn1, #btn2, #btn3{
   background-color: black;
   opacity: .3;
@@ -124,10 +133,6 @@ h3{
   position: relative;
 
 }
-button:hover {
-  background-color: white !important;
-
-}
-button:focus{
+#btn1 {
   background-color: white;
 }
