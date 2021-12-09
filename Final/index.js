@@ -32,9 +32,3 @@ btn3.addEventListener('click', () => {
   selected.backgroundColor = "white";
   prev = selected;
 })
-
-// var buttons = $('button');
-// buttons.click(function() {
-//   buttons.css('background-color', 'black');
-//   $(this).css('background-color', 'white');
-// });
