@@ -56,15 +56,15 @@ a:hover{
   font-size: 22px;
 
   }
-#vertical{
+.vertical{
   height: 650px;
   width: 400px;
 }
-#horizontal{
+.horizontal{
   height: 400px;
   width: 650px;
 }
-#square{
+.square{
   height:500px;
   width:500px;
 }
