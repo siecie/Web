@@ -19,7 +19,7 @@ h1{
   text-align: center;
   color: white;
   font-size: 40px;
-  left: 1em;
+  left: 2em;
 }
 .options{
   background-color:black;
@@ -44,7 +44,7 @@ h2,a{
   text-align: center;
   word-spacing: 30px;
   font-family: "Raleway";
-  margin: -3.3ch -.5vw 0 0vw;
+  margin: 3ch 0vw 0 0vw;
   text-decoration: none;
 
 }

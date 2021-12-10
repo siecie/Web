@@ -42,7 +42,7 @@ h2,a{
   text-align: center;
   word-spacing: 30px;
   font-family: "Raleway";
-  margin: -2ch -.5vw 0 0vw;
+  margin: 3ch -.5vw 0 0vw;
   text-decoration: none;
   left:10px;
 
@@ -56,21 +56,21 @@ a:hover{
   font-size: 22px;
 
   }
-.vertical{
+#vertical,#vertical1,#vertical2{
   height: 650px;
   width: 400px;
 }
-.horizontal{
+#horizontal,#horizontal1,#horizontal2,#horizontal3,#horizontal4,#horizontal5,#horizontal6,#horizontal7,#horizontal8,#horizontal9{
   height: 400px;
   width: 650px;
 }
-.square{
+#square, #square1{
   height:500px;
   width:500px;
 }
 
 .gallery{
-  margin:10px 50px;
+  text-align: center;
 }
 
 .gallery img{
