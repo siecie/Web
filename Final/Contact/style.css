@@ -42,18 +42,17 @@ h2,a{
   color:white;
   font-size: 18px;
   text-align: center;
-  word-spacing: 30px;
+  word-spacing: 10px;
   font-family: "Raleway";
-  margin: 3ch 0vw 0 0vw;
+  margin: 3ch 0vw 0 1vw;
   text-decoration: none;
+
 
 }
 
 .click{
   text-decoration: underline;
 }
-h2{
-  left:110px;
 
 }
 
