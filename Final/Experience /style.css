@@ -77,6 +77,14 @@ body{
   color: black;
 }
 
+#company1{
+  font-family: "Playfair Display";
+  font-size: 40px;
+  margin-left: .5em;
+  margin-bottom: 0em;
+  color: black;
+}
+
 #company2{
   font-family: "Playfair Display";
   font-size: 40px;
@@ -84,7 +92,7 @@ body{
   margin-bottom: 1.3em;
 }
 
-#postion{
+#postion, #postion1, #postion2{
   font-family: "Playfair Display";
   font-size: 28px;
   margin-left: 1.2em;
@@ -102,6 +110,13 @@ li{
 }
 
 #insta{
+  margin: -150ch 100vw 0 33.5vw;
+  margin-bottom: 0em;
+  height: 60px;
+  width: 80px;
+}
+
+#insta1{
   margin: -150ch 100vw 0 33.5vw;
   margin-bottom: 0em;
   height: 60px;
