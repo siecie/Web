@@ -42,9 +42,9 @@ h2,a{
   color:white;
   font-size: 18px;
   text-align: center;
-  word-spacing: 0px;
+  word-spacing: 10px;
   font-family: "Raleway";
-  margin: 3ch 0vw 0 1vw;
+  margin: 3ch 0vw 0 0vw;
   text-decoration: none;
 
 
@@ -52,10 +52,10 @@ h2,a{
 
 .click{
   text-decoration: underline;
-  font-size:30px;
+  font-size:30px
 }
 
-
+}
 
 a:hover{
   font-size: 22px;
