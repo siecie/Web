@@ -4,7 +4,7 @@ let btn2 = document.querySelector('#btn2');
 let btn3 = document.querySelector('#btn3');
 var prev = document.getElementById('btn1');
 btn1.addEventListener('click', () => {
-  img.src= 'Media Gallery/Blossum.jpg';
+  img.src= 'Media_Gallery/Blossum.jpg';
   var selected = document.getElementById('btn1');
   btn1.style.backgroundColor = "white";
   btn2.style.backgroundColor = "black";
@@ -14,7 +14,7 @@ btn1.addEventListener('click', () => {
 })
 
 btn2.addEventListener('click', () => {
-  img.src= 'Media Gallery/Crested Butte.jpg';
+  img.src= 'Media_Gallery/Crested Butte.jpg';
   var selected = document.getElementById('btn1');
   btn2.style.backgroundColor = "white";
   btn1.style.backgroundColor = "black";
@@ -24,7 +24,7 @@ btn2.addEventListener('click', () => {
 })
 
 btn3.addEventListener('click', () => {
-  img.src= 'Media Gallery/Flatirons.jpg';
+  img.src= 'Media_Gallery/Flatirons.jpg';
   var selected = document.getElementById('btn1');
   btn3.style.backgroundColor = "white";
   btn2.style.backgroundColor = "black";
